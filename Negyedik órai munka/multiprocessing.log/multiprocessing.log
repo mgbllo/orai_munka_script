@@ -1,0 +1,25 @@
+2021-11-20 14:01:24,305 | 14280 | INFO | Message #0
+2021-11-20 14:01:26,301 | 15884 | INFO | Message #1
+2021-11-2021-11-20 14:01:44,350 | 12480 | INFO | Join Producer
+2021-11-20 14:01:46,485 | 12480 | INFO | Join Consumer
+01:32,311 | 15884 | INFO | Message #4
+2021-11-20 14:01:34,314 | 15884 | INFO | Message #5
+2021-11-20 14:01:36,317 | 15884 | INFO | Message #6
+2021-11-20 14:01:38,325 | 15884 | INFO | Message #7
+2021-11-20 14:01:40,340 | 15884 | INFO | Message #8
+2021-11-20 14:01:42,344 | 15884 | INFO | Message #9
+2021-11-20 14:01:44,344 | 15884 | INFO | Producer Finished
+ Read, Try #0
+2021-11-20 14:01:34,393 | 14280 | INFO | Message #5
+2021-11-20 14:01:35,409 | 14280 | INFO | Unsuccessful Read, Try #0
+2021-11-20 14:01:36,411 | 14280 | INFO | Message #6
+2021-11-20 14:01:37,414 | 14280 | INFO | Unsuccessful Read, Try #0
+2021-11-20 14:01:38,418 | 14280 | INFO | Message #7
+2021-11-20 14:01:39,429 | 14280 | INFO | Unsuccessful Read, Try #0
+2021-11-20 14:01:40,435 | 14280 | INFO | Message #8
+2021-11-20 14:01:41,449 | 14280 | INFO | Unsuccessful Read, Try #0
+2021-11-20 14:01:42,454 | 14280 | INFO | Message #9
+2021-11-20 14:01:43,469 | 14280 | INFO | Unsuccessful Read, Try #0
+2021-11-20 14:01:44,469 | 14280 | INFO | Unsuccessful Read, Try #1
+2021-11-20 14:01:45,475 | 14280 | INFO | Unsuccessful Read, Try #2
+2021-11-20 14:01:46,479 | 14280 | INFO | Consumer Finished
