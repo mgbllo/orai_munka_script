@@ -1,0 +1,9 @@
+numpy
+flask
+flask-validator
+pymongo
+matplotlib
+pandas
+seaborn
+flake8
+flask-expects-json
